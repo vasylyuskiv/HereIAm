@@ -63,6 +63,10 @@ export default StyleSheet.create({
         backgroundColor: '#4267B2',
 
     },
+    marker:{
+        height: 50,
+        width: 50,
+    },
     facebook: {
     color: '#FFFFFF',
     fontFamily: 'Roboto',
